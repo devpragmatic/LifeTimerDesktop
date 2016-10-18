@@ -15,9 +15,11 @@ public class TimeCircle {
         timeService.add(time);
         System.out.println(time);
         Time timeSecond = new Time();
-        timeSecond.setParentId(time.getId());
+        timeSecond.setParent(time);
         timeService.add(timeSecond);
         List<Time> times = timeService.getAll();
         System.out.println(times);
+        System.out.println(times.get(times.size()-1));
+        System.out.println(times.get(times.size()-1).getParent());
     }
 }
