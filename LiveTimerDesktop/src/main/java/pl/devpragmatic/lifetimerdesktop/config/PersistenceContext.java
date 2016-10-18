@@ -1,4 +1,4 @@
-package pl.devpragmatic.livetimerdesktop.config;
+package pl.devpragmatic.lifetimerdesktop.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

@@ -1,9 +1,9 @@
-package pl.devpragmatic.livetimerdesktop;
+package pl.devpragmatic.lifetimerdesktop;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import pl.devpragmatic.lifetimer.service.TimeService;
-import pl.devpragmatic.livetimerdesktop.config.PersistenceContext;
+import pl.devpragmatic.lifetimerdesktop.config.PersistenceContext;
 
 /**
  *

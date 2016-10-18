@@ -1,4 +1,4 @@
-package pl.devpragmatic.livetimerdesktop;
+package pl.devpragmatic.lifetimerdesktop;
 
 import java.util.List;
 import pl.devpragmatic.lifetimer.domain.Time;

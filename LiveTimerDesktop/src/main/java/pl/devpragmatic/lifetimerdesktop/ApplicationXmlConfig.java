@@ -1,4 +1,4 @@
-package pl.devpragmatic.livetimerdesktop;
+package pl.devpragmatic.lifetimerdesktop;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
